@@ -1,8 +1,8 @@
 # sistema_escuelas
 
-Proyecto final del curso Manejo de bases de datos con Python en coursera
+Proyecto final del curso "Manejo de bases de datos con Python" Coursera-Universidad Austral 
 
-Escpecificaciones:
+Escpecificaciones solicitadas:
 
 - Para este proyecto, realizarás un sistema para una escuela. Este sistema permite registrar nuevos alumnos, profesores y cursos.
 
